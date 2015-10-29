@@ -1,0 +1,9 @@
+clear 
+gedit add
+gedit push
+git clone
+git commit -m ""
+ls
+cd
+cat
+
