@@ -1,0 +1,4 @@
+To create a new file, first you have to open terminal.
+Then, you type gedit, then space, then you type the name you want the file to be.
+You save it, and them you type git add. Then you type git commit -m and also the quotation marks.
+Then lastly, you save it into your repository by typing git push.
