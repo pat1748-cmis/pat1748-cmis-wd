@@ -1,0 +1,29 @@
+
+h1 {
+	color: green;
+	background: yellow;
+	font-weight: bold;
+	border:dashed orange;
+}
+
+h2 {
+	
+	color: red;
+	background: purple;
+	font-size: medium;  
+	font-weight: bold;
+	border: dashed blue 
+}
+
+p1 {
+	color: red;
+	background: orange;
+	font-size: small;
+	border: dashed blue;
+}
+
+body { 
+	background-color: light green;
+ 	
+	
+
